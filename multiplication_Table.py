@@ -1,4 +1,4 @@
-import numpy as np
+
 print('\t\t....THIS IS S MULTIPLICATION TABLE....\n')
 while True:
 	x=int(input("write the number to multiply : "))
